@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_buy"
+        android:icon="@drawable/buy"
+        android:title="BUY" />
+
+    <item
+        android:id="@+id/navigation_Me"
+        android:icon="@drawable/me"
+        android:title="Me" />
+
+    <item
+        android:id="@+id/navigation_wallet"
+        android:icon="@drawable/e_wallet"
+        android:title="eWallet" />
+
+</menu>
